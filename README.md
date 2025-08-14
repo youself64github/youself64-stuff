@@ -1,3 +1,5 @@
 # youself64-stuff
 
-This is some stuff (including scripts, and etc)
+This is an official LSD site + with some stuff.
+
+Current Release: LSD 2025.4
